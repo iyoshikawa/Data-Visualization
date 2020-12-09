@@ -1,4 +1,4 @@
-#Packages that you will have to install
+# Packages that you will have to install
 NPM - LTS version will suffice
 or
 NVM or Scoop
