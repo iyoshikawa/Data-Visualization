@@ -1,7 +1,5 @@
-#Packages that you will have to install
-NPM - LTS version will suffice
-or
-NVM or Scoop
+# Packages that you will have to install
+NPM - LTS version will suffice or NVM or Scoop
 
 In the project directory, you can run:
 
