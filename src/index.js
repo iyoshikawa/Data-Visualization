@@ -1,3 +1,12 @@
+import 'bootstrap/dist/css/bootstrap.css'
+import Accordion from 'react-bootstrap/Accordion'
+import Buttons from 'react-bootstrap/Button'
+import Container from 'react-bootstrap/Container'
+import Collapse from 'react-bootstrap/Collapse'
+import Card from 'react-bootstrap/Card'
+import Form from 'react-bootstrap/Form'
+import Modal from 'react-bootstrap/Modal'
+import Nav from 'react-bootstrap/Nav'
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
