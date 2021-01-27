@@ -1,28 +1,29 @@
-# Packages that you will have to install
-NPM - LTS version will suffice or NVM or Scoop
+# Dependencies that are needed
+
+* Vanilla Bootstrap
+
+### `npm i bootstrap`
+
+* Chart.js
+
+### `npm i chart.js --save`
+
+* react-chartjs-2
+
+### `npm i --save react-chartjs-2 chart.js
+
+* react-bootstrap
+
+### `npm install react-bootstrap bootstrap`
+
+
+## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
 
-If you want to run this application run the above command in your terminal.
+Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
+Development was done in Mozilla Firefox, most recent is ideal.
